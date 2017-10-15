@@ -1,0 +1,26 @@
+﻿  troll.cpp
+  spell.cpp
+  shield.cpp
+  orc.cpp
+  melee.cpp
+  main.cpp
+  game.cpp
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\game.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  character.cpp
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(179): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(185): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(206): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(209): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(212): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(215): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(218): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(221): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(224): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(242): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cathal\desktop\orcvstrollgameplayprogramming\orcvstrollgameplayprogramming\character.cpp(245): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  action.cpp
+  Generating Code...
+  orcVsTrollGameplayProgramming.vcxproj -> C:\Users\Cathal\Desktop\orcVsTrollGameplayProgramming\Debug\orcVsTrollGameplayProgramming.exe
+  orcVsTrollGameplayProgramming.vcxproj -> C:\Users\Cathal\Desktop\orcVsTrollGameplayProgramming\Debug\orcVsTrollGameplayProgramming.pdb (Partial PDB)
